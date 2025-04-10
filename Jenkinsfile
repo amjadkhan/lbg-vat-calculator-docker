@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "amikhan/webcalc"
+ registry = "amikhan/vatcalc"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
